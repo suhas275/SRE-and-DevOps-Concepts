@@ -1,0 +1,12 @@
+# Ignore Terraform working directories
+**/.terraform/*
+
+# Exclude Terraform state files (important for remote state management)
+*.tfstate
+*.tfstate.*
+
+# Ignore Terraform lock file (typically auto-generated and not needed in VCS)
+.terraform.lock.hcl
+
+# Ignore crash logs
+crash.log
