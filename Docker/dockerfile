@@ -1,0 +1,11 @@
+# Use an official Python image as the base image
+FROM python:3.9
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# Copy files from the local machine to the container
+COPY . .
+
+# Run a Python script when the container starts
+CMD ["python", "app.py"]
