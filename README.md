@@ -11,3 +11,6 @@ https://zinc-venus-4fd.notion.site/Terrafrom-Notes-1c2f189ac9b4801ab01dfefa2ff9c
 
 ## Cucumber Framework
 https://zinc-venus-4fd.notion.site/Cucumber-Framework-19cf189ac9b480ce9c10d7ca58750420
+
+## Kubernetes [K8's]
+https://zinc-venus-4fd.notion.site/Kubernetes-1adf189ac9b48043a064f1451bf24029
