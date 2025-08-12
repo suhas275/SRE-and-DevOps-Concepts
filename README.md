@@ -14,3 +14,6 @@ https://zinc-venus-4fd.notion.site/Cucumber-Framework-19cf189ac9b480ce9c10d7ca58
 
 ## Kubernetes [K8's]
 https://zinc-venus-4fd.notion.site/Kubernetes-1adf189ac9b48043a064f1451bf24029
+
+## Linux Fundamental's
+https://zinc-venus-4fd.notion.site/Linux-Fundamentals-24bf189ac9b480b698a4e0cc55263e23?pvs=73
